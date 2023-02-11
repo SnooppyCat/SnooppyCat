@@ -1,2 +1,2 @@
-Hi, i am mqs.Im creating telegram bots on Python.Discord: mq#5938
+Hi! Im 13 years old Python programmer, glad to see you)
 
